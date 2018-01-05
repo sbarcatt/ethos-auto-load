@@ -20,6 +20,10 @@ $time_check=5;
 - Enjoy 😀
 
 
+### daemon Usage
+- You can manage the daemon with command *autoupdate.sh* `[start*|stop|restart]` *=default
+
+
 License
 ----
 
