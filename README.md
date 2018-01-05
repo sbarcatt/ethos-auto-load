@@ -28,8 +28,8 @@ Apache 2.0
 
 ### Please consider a donation for more projects like this
 
-**NAV**: NatC1eBsrvXbUQD5R34TD2fg5J8hnFrmr5 <br />
 **BTC**: 1EEvGGLibsgdHUk2dbgMmHFPXvXrUyMQFc <br />
 **ETH**: 0x957c8288e744efb225e87e77393f0d5b9a86df5d <br />
 **TRX**: 0x957c8288e744efb225e87e77393f0d5b9a86df5d <br />
+**NAV**: NatC1eBsrvXbUQD5R34TD2fg5J8hnFrmr5 <br />
 **IOTA**: YBIZWEASKOZUJHXELQ9QCGDXRO9GPIHWWQZWMJHNZESKXHROCLAKVTGYPWDNHPSKRSGHSJG9HEIP9OXEDEZOYEZJZB
