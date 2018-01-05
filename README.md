@@ -12,9 +12,9 @@ These files allow you to update your configuration and reset your miners when yo
 - Modify the following lines with your remote file:
  ```sh
 //YOUR REMOTE CONF URL
-$your_config_url="**https://configmaker.com/my/VirtualEarnestWhiteHagfish.txt**";
+$your_config_url="https://configmaker.com/my/VirtualEarnestWhiteHagfish.txt";
 //TIME TO CHECK - IN SECONDS
-$time_check=**5**;
+$time_check=5;
 ```
 - Restart your ethOS RIG (with the command ```r```).
 - Enjoy 😀
