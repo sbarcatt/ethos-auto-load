@@ -11,7 +11,7 @@ These files allow you to update your configuration and reset your miners when yo
 - Add this line *```/home/ethos/autoupdate.sh```* in your *```custom.sh```* (Check in example folder).
 - Modify the following lines with your remote file:
  ```sh
-//YOUR REMOTE CONF URL - *```Use http not https```*
+//YOUR REMOTE CONF URL - Use http not https
 $your_config_url="http://configmaker.com/my/VirtualEarnestWhiteHagfish.txt";
 
 //TIME TO CHECK - IN SECONDS
