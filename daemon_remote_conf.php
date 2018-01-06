@@ -1,10 +1,10 @@
 <?php
 
-//YOUR REMOTE CONF URL
-$your_config_url="https://configmaker.com/my/VirtualEarnestWhiteHagfish.txt";
+//YOUR REMOTE CONF URL - Use http not https
+$your_config_url="http://configmaker.com/my/VirtualEarnestWhiteHagfish.txt";
 
 //TIME TO CHECK - IN SECONDS
-$time_check=5;
+$time_check=360;
 
 //ROUTE TO SAVE LENGTH
 $LOCAL_CONF = '/home/ethos/length.txt';
