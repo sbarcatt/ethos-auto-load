@@ -4,7 +4,7 @@ These files allow you to update your configuration and reset your miners when yo
 
   - Update your configuration in minutes.
   - No need to use Teamviewer or SSH.
-  - It works with https://configmaker.com or server whit text.
+  - It works with https://configmaker.com or server with text.
 
 ### Installation
 - Go to your RIG and copy *```autoupdate.sh```* and *```daemon_remote_conf.php```* in *```/home/ethos```*
